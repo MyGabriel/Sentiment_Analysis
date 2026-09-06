@@ -81,25 +81,22 @@ python model.py
 
 
 
+## Reference
 
-
-####### Reference #########
-
-## Original IMDb 
+# Original IMDb 
 Maas et all (2011): Learning word vector for sentiment analysis. Procedings of the 49th Annual Meeting of the Association for Computational Linguistics
 Human Technologies. https://aclanthology.org/P11-1015/
 
-## NOTE: The IMDb dataset was upload directly in the code from "datasets" library (Standforf/imdb).
+# NOTE: The IMDb dataset was upload directly in the code from "datasets" library (Standforf/imdb).
 
-## MLP Adaptation
+# MLP Adaptation
 Molankula, B. (2018): Sentiment Analysis of IMDb Dataset. Publisheb on GitHub. https://www.github.com/Balakishan77/Sentiment-Analyis-of-IMDB-dataset/blob/master/imdb_sentiment.py
 
 
 
 
-
-####################### THE END #######################
-# IU-International University of Applied Sciences
-# Course Code: DLBAIPNLP01
-# Author: Gabriel Manu
-# Matriculation ID: 9212512
++ IU-International University of Applied Sciences
++ Course Code: DLBAIPNLP01
++ Tutor: Visieu Lac
++ Author: Gabriel Manu
++ Matriculation ID: 9212512
