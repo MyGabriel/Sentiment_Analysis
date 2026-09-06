@@ -1,0 +1,20 @@
+pandas
+scikit-learn
+spacy
+datasets
+matplotlib
+tensorflow
+
+# After installing, download the spaCy English model (one-time):
+#   python -m spacy download en_core_web_sm
+
+
+
+
+
+
+####################### THE END #######################
+# IU-International University of Applied Sciences
+# Course Code: DLBAIPNLP01
+# Author: Gabriel Manu
+# Matriculation ID: 9212512
