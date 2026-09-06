@@ -13,8 +13,9 @@ tensorflow
 
 
 
-####################### THE END #######################
+##################THE END #######################
 # IU-International University of Applied Sciences
 # Course Code: DLBAIPNLP01
+# Tutor: Visieu Lac
 # Author: Gabriel Manu
 # Matriculation ID: 9212512
